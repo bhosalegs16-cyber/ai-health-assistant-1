@@ -1,0 +1,33 @@
+Act as a Senior Full Stack AI Engineer, UI/UX Designer, Python Developer, and Healthcare Software Architect.
+
+Build a production-ready AI Health Assistant web application.
+
+Tech Stack:
+- Frontend: HTML5, CSS3, JavaScript (ES6)
+- Backend: Python (Flask)
+- Database: SQLite
+- AI Integration: OpenAI API
+- Charts: Chart.js
+- Icons: Font Awesome
+
+Features:
+1. Modern responsive glassmorphism UI.
+2. Secure login and registration.
+3. AI chatbot for symptom analysis.
+4. BMI calculator.
+5. Water intake calculator.
+6. Daily calorie calculator.
+7. Medicine reminder system.
+8. Appointment booking interface.
+9. Emergency contact button.
+10. Health report dashboard.
+11. Dark/Light mode.
+12. Responsive mobile layout.
+13. Loading animations.
+14. Voice input and speech output.
+15. Chat history saved in database.
+16. Input validation.
+17. Clean folder structure.
+18. Fully commented code.
+19. README with installation steps.
+20. Generate complete HTML, CSS, JavaScript, Python Flask backend, SQLite database, and project structure without placeholders.
